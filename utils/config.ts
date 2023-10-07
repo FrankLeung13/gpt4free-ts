@@ -34,57 +34,11 @@ class BaseConfig {
     },
     site_map: {
       {
-    "site": "you",
-    "models": [
-      "gpt-3.5-turbo"
-    ]
-  },
-  {
-    "site": "phind",
-    "models": [
-      "net-gpt3.5-turbo"
-    ]
-  },
-  {
-    "site": "mcbbs",
-    "models": [
-      "gpt-3.5-turbo",
-      "gpt-3.5-turbo-16k"
-    ]
-  },
-  {
-    "site": "chatdemo",
-    "models": [
-      "gpt-3.5-turbo"
-    ]
-  },
-  {
-    "site": "vita",
-    "models": [
-      "gpt-3.5-turbo"
-    ]
-  },
-  {
-    "site": "fakeopen",
-    "models": [
-      "gpt-3.5-turbo-16k"
-    ]
-  },
-  {
-    "site": "better",
-    "models": [
-      "gpt-3.5-turbo",
-      "gpt-3.5-turbo-16k",
-      "gpt-4"
-    ]
-  },
-  {
-    "site": "xun",
-    "models": [
-      "gpt-3.5-turbo",
-      "gpt-3.5-turbo-16k"
-    ]
-  }
+        "site": "you",
+        "models": [
+          "gpt-3.5-turbo"
+        ]
+      }
     },
     one_api: {
       base_url: '',
