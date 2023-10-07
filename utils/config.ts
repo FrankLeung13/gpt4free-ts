@@ -33,12 +33,7 @@ class BaseConfig {
       cf_debug: false,
     },
     site_map: {
-      {
-        "site": "you",
-        "models": [
-          "gpt-3.5-turbo"
-        ]
-      }
+      
     },
     one_api: {
       base_url: '',
